@@ -1,0 +1,14 @@
+/*RESET*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*ROOT*/
+:root {
+    --almost-black: rgb(17, 17, 17);
+    --almost-white: rgb(242, 242, 242);
+}
+/*HEADER*/
+/*MAIN*/
+/*FOOTER/
